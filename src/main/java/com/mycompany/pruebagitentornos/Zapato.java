@@ -9,6 +9,7 @@ package com.mycompany.pruebagitentornos;
  * @author Gaby
  */
 public class Zapato {
-    private String numero;
+    private int numero;
+    private String marca;
     
 }
