@@ -8,8 +8,6 @@ package com.mycompany.pruebagitentornos;
  *
  * @author Gaby
  */
-public class NombreCortoException {
-    public String verMensaje() {
-        return "El nombre es muy corto";
-    }
+public class Bolso {
+    
 }
