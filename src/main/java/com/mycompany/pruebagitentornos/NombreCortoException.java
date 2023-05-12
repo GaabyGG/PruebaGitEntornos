@@ -10,6 +10,6 @@ package com.mycompany.pruebagitentornos;
  */
 public class NombreCortoException {
     public String verMensaje() {
-        return "El nombre es muy corto, hasta luego";
+        return "El nombre es muy corto";
     }
 }
