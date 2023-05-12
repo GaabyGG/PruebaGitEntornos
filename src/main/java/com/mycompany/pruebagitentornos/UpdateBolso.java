@@ -8,11 +8,11 @@ package com.mycompany.pruebagitentornos;
  *
  * @author Gaby
  */
-public class Bolso {
+public class UpdateBolso {
     private String codigo;
     private String marca;
 
-    public Bolso(String codigo) {
+    public UpdateBolso(String codigo) {
         this.codigo = codigo;
     }
 }
